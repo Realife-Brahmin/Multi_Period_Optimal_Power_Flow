@@ -1,0 +1,38 @@
+<fulfillmentToken fulfillmentType="loan" auth="user" xmlns="http://ns.adobe.com/adept">
+  <distributor>urn:uuid:9cb786e8-586a-4950-8901-fff8d2ee6025</distributor>
+  <operatorURL>https://acs.ebookcentral.proquest.com/fulfillment</operatorURL>
+  <transaction>697550_487664940</transaction>
+  <purchase>2023-11-07T19:07:39+00:00</purchase>
+  <expiration>2023-11-08T01:07:39+00:00</expiration>
+  <resourceItemInfo>
+    <resource>urn:uuid:00000000-0000-0000-0000-000000697550</resource>
+    <resourceItem>0</resourceItem>
+    <metadata>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Approximate Dynamic Programming</dc:title>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Powell, Warren B.;</dc:creator>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">John Wiley &amp; Sons, Incorporated</dc:publisher>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">697550</dc:identifier>
+      <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">application/pdf</dc:format>
+    </metadata>
+    <licenseToken>
+      <resource>urn:uuid:00000000-0000-0000-0000-000000697550</resource>
+      <permissions>
+        <display>
+          <duration>31535999</duration>
+        </display>
+        <excerpt>
+          <duration>31535999</duration>
+          <count initial="33" max="33" incrementInterval="955636"/>
+        </excerpt>
+        <print>
+          <duration>31535999</duration>
+          <count initial="132" max="132" incrementInterval="238909"/>
+        </print>
+        <play>
+          <duration>31535999</duration>
+        </play>
+      </permissions>
+    </licenseToken>
+  </resourceItemInfo>
+  <hmac>aanA97F9QRiq537Wm+Vbd/GJZgI=</hmac>
+</fulfillmentToken>
